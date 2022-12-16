@@ -1,0 +1,22 @@
+.bg-img1 {
+  background-color: #000;
+  height: 720px;
+  background-size: cover;
+
+  background-image: url(https://images3.alphacoders.com/716/716428.png);
+}
+
+.bg-img2 {
+  background-color: #000;
+  height: 720px;
+  background-size: cover;
+
+  background-image: url(https://rare-gallery.com/uploads/posts/303607-Azur-Lane-Mikasa-Kimono-Anime-Girl-4K.jpg);
+}
+
+.bg-img3 {
+  background-color: #000;
+  height: 720px;
+  background-size: cover;
+  background-image: url(https://images4.alphacoders.com/976/976013.jpg);
+}
